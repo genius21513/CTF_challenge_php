@@ -1,0 +1,10 @@
+https://theaveragenz.com/hacklu-ctf-2018-baby-php-web-challenge-writeup/
+
+https://www.phpliveregex.com/
+
+https://v8.dev/blog/regexp-lookbehind-assertions
+
+
+https://medium.com/@Asm0d3us/part-1-php-tricks-in-web-ctf-challenges-e1981475b3e4
+
+
